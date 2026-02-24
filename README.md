@@ -3,7 +3,9 @@
 :computer: Software Developer
 :pencil: Analista
 :eyeglasses: Geek empedernido
-:surf: Fan del surf
+:surfing_man: Fan del surf
+
+![Surfing](https://img.shields.io/badge/Activity-Surfing-blue?style=flat-square&logo=surveymonkey&logoColor=white)
 
 ###Vias de contacto
 
